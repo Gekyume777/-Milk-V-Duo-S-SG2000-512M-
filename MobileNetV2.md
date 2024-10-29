@@ -173,7 +173,7 @@ cd samples
 ```
 
 得到以下输出证明测试成功
-![测试成功输出](cat-test)
+![测试成功输出](cat-test.jpg)
 
 
 
