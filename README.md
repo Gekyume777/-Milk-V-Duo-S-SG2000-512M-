@@ -1,1 +1,1 @@
-# -Milk-V-Duo-S-SG2000-512M-
+#test on Duo S will be deposited here  
