@@ -1,4 +1,4 @@
-# RT-Thread Milk-V Duo S 测试报告
+# RT-Thread on Milk-V Duo S 测试报告
 
 ## 测试环境
 
